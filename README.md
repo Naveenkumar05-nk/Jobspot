@@ -12,7 +12,3 @@ Jobspot is a Reactjs based project which uses Github jobs API for the required d
 
 **Screenshots of the project**
 
-
-<div align="center">
-    <img src="/Users/ASUS/Desktop/Homepage.jpg" width="400px"</img> 
-</div>
