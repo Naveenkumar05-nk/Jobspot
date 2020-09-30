@@ -5,7 +5,9 @@ Jobspot is a Reactjs based project which uses Github jobs API for the required d
 **Features Offered**
 
 1.Jobs search according to the title
+
 2.Search according to the location
+
 3.Checkbox for full time job
 
 **Screenshots of the project**
