@@ -1,6 +1,6 @@
 # Jobspot
 
-Jobspot is a Reactjs based project which uses Github jobs API for the required data fetching according to the respected data input.
+Jobspot is a Reactjs based project which uses Github jobs API for the required data fetching according to the respective data input.Bootstrap is been used for the front-end.
 
 **Features Offered**
 
@@ -12,11 +12,13 @@ Jobspot is a Reactjs based project which uses Github jobs API for the required d
 
 **Screenshots of the project**
 
-**Homepage**
+**1.Homepage**
 
 ![Homepage](https://user-images.githubusercontent.com/53938611/94692704-74656080-0350-11eb-8a55-35a1299629ba.jpg)
 
-**Search-Results**
+**2.Search-Results**
+
+![Search-results](https://user-images.githubusercontent.com/53938611/94692811-9eb71e00-0350-11eb-828c-c0145b16818b.jpg)
 
 
 
